@@ -1,0 +1,6 @@
+generated: '2026-10-24'
+method: probed
+generator: harvest-llms.py
+source: https://help.nextmatter.com/llms.txt
+bytes: 34237
+note: saved verbatim; the provider's own document

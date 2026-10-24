@@ -1,0 +1,38 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.nextmatter.com/docs/authenticate-with-microsoft.md
+sources:
+- https://help.nextmatter.com/docs/authenticate-with-microsoft.md
+- https://help.nextmatter.com/docs/okta-authentication.md
+- https://help.nextmatter.com/docs/api-keys.md
+- https://help.nextmatter.com/docs/api-keys
+description: Authentication methods published by Next Matter
+schemes:
+- type: oauth2
+  name: Microsoft SSO
+  evidence: Note that the initial authorization is done using the OAuth2 flow, and then we request additional scopes for each connected Microsoft
+    service.
+- type: oauth2
+  name: Okta
+  evidence: You can log in to Next Matter using Okta
+- type: apiKey
+  name: API Key HTTP
+  evidence: For API Key HTTP, Header Name is the HTTP header that carries the key. It defaults to `Authorization`. Change it when the API expects
+    a different header, like `X-API-Key`. Prefix is optional. Use it when the API expects a scheme in front of the key, like `Bearer`.
+  location: header
+  header: Authorization
+  how_to_obtain: Create an API key in the Next Matter admin UI (Company > Next Matter API keys) and copy the generated key.
+- type: http-basic
+  name: Basic HTTP
+  evidence: 'Basic: username and password'
+  location: header
+  header: Authorization
+  how_to_obtain: Add a new Basic HTTP credential in the Automations library > Custom credentials.
+- type: http-bearer
+  name: Bearer HTTP
+  evidence: 'Bearer: token'
+  location: header
+  header: Authorization
+  how_to_obtain: Add a new Bearer HTTP credential in the Automations library > Custom credentials.
+docs: https://help.nextmatter.com/docs/authenticate-with-microsoft.md

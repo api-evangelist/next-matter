@@ -1,0 +1,77 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://help.nextmatter.com/changelog/changelog.md
+sources:
+- https://help.nextmatter.com/changelog/changelog.md
+- https://help.nextmatter.com/changelog/changelog_2025.md
+- https://help.nextmatter.com/changelog/changelog_2024.md
+- https://help.nextmatter.com/changelog/changelog_2023.md
+entries:
+- breaking: false
+  highlights:
+  - We've reimagined the run experience. Steps are now grouped into stages in a clean, collapsible view, so you can follow progress at a glance
+    and always know what needs your attention.
+  - Steps that run in the background - like emails, integrations, and automatically delegated steps - are tucked away, keeping the focus on the
+    work that actually needs a person.
+  date: '2025-07-01'
+- breaking: false
+  highlights:
+  - The Number field keeps getting better. Now you get a live preview of how your numbers and currencies will be formatted as you set them up,
+    plus clearer in-field guidance on what's expected.
+  date: '2025-07-01'
+- breaking: false
+  highlights:
+  - Export your colleagues list - Download your organization's colleagues to CSV.
+  - Clearer required columns - Mandatory columns are now clearly marked on table inputs.
+  - New formatting option - Return just the first item from a JSON list when working with data references.
+  date: '2025-07-01'
+- breaking: false
+  highlights:
+  - 'Datasets now support filtering capabilities, bringing significant improvements to the user experience:'
+  - Cleaner selections - Dropdown menus no longer display duplicate items, making it easier to find and select the right option
+  - Smart filtering - Create dynamic parent-child relationships where subsequent dropdown options automatically filter based on previous selections
+  date: '2025-06-01'
+- breaking: false
+  highlights:
+  - Custom credentials now have a self-serve UI. You can easily manage and add custom credentials that you use to connect custom integrations.
+  date: '2025-05-01'
+- breaking: false
+  highlights:
+  - Quick actions allow you to create new workflow steps in seconds. We've added a new bunch for you to use.
+  - Turn a JSON object into an escaped string
+  - Turn a string into a JSON object
+  - Create custom text and place it on a template
+  date: '2025-05-01'
+- breaking: false
+  highlights:
+  - When **Stop instance** is selected in a decision step or routing field, the instance status will now be stopped (not completed).
+  - The step status will be declined, but other steps will stay unchanged.
+  - The API response of a routing-triggered stopped instance will contain the aborted time (not completed time)
+  date: '2025-05-01'
+- breaking: false
+  highlights:
+  - 'We''re excited to introduce a brand-new form field type: the **Numbers Field**!'
+  - This lets workflows collect actual numeric values, which means numbers can now be used more reliably across the product for sorting, filtering,
+    and calculations.
+  date: '2025-05-01'
+- breaking: false
+  highlights:
+  - Users can upload (or drag and drop) one image or file per cell. For images, a thumbnail preview appears right in the cell for easy reference.
+  date: '2025-04-01'
+- breaking: false
+  highlights:
+  - Datasets let you store large data tables directly in Next Matter, making it the single, central place for managing and using data.
+  date: '2025-04-01'
+- breaking: false
+  highlights:
+  - Now if any workflow is causing issues, simply screenshot it, copy the pic, and CTRL + V it into the conversation window.
+  date: '2025-04-01'
+- breaking: false
+  highlights:
+  - If you were looking for a workaround to export instance or step data, look no further. Now, you can quickly do it with no-code Next Matter
+    action.
+  date: '2025-04-01'
+scheme: monthly releases identified by month and year (e.g., September 2025)
+current_version: July 2025
+docs: https://help.nextmatter.com/changelog/changelog.md

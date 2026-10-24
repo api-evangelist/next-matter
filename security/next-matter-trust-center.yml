@@ -1,0 +1,15 @@
+generated: '2026-10-24'
+method: searched
+probe: true
+source: https://nextmatter.com/security
+url: https://nextmatter.com/security
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://nextmatter.com/security
+  keywords:
+  - soc 2
+  - soc2
+  - trust center
+  - gdpr

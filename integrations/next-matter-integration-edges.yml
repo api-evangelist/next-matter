@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/next-matter/integrations
+- https://n8n.io/integrations/next-matter/
+- https://composio.dev/toolkits/next-matter
+- https://monid.ai/tools/next-matter
+checked:
+- https://composio.dev/toolkits/next-matter
+- https://monid.ai/tools/next-matter
+- https://n8n.io/integrations/next-matter/
+- https://zapier.com/apps/next-matter/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

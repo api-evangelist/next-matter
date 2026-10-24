@@ -1,0 +1,27 @@
+generated: '2026-10-24'
+method: probed
+source: https://nextmatter.com/privacy-policy
+signals:
+  data_subject_request:
+    evidence:
+      - source: https://nextmatter.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "According to the General Data Protection Regulation, in addition to the right to revoke your consent given to us, if applicable, you have the right to request access to (Art. 15 GDPR) and rectification (Art. 16 GDPR), erasure or restriction of processing (Art. 17 GDPR) of personal data or restriction of processing (Art. 18 GDPR), the right to object (Art. 21 GDPR) and the right to data portability (Art. 20 GDPR)."
+    section: "9. Rights of the data subject, right to lodge complaints, right to object"
+    note: "Provides data subject rights and objection mechanisms."
+  data_retention:
+    evidence:
+      - source: https://nextmatter.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "In addition, we store your personal data to the extent that we are required to do so by law. Corresponding obligations to store data result in particular from the Irish Companies Act 2014 and Irish Taxes Consolidation Act 1997, under which statutory storage periods are generally six years. In the case of statutory retention obligations, deletion will only be considered after expiry of the respective retention obligation."
+    section: "7. Retention periods"
+    note: "Specifies statutory retention of six years and conditions for deletion."
+  incident_notification:
+    evidence:
+      - source: https://nextmatter.com/privacy-policy
+        http_status: 200
+        fetched: "true"
+        quote: "In the case of statutory retention obligations, deletion will only be considered after expiry of the respective retention obligation."
+    note: "Indicates process for handling data after retention period, implying incident handling."

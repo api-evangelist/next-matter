@@ -1,0 +1,195 @@
+# Welcome to Next Matter
+
+- [Welcome](https://help.nextmatter.com/docs/welcome-to-next-matter.md): Next Matter is a platform for automating workflows, from complex processes across multiple teams and tools to repetitive and mundane ones.
+- [Automation explained](https://help.nextmatter.com/docs/get-buy-in-for-automated-processes.md): Automation might be a technical concept, but its application is not technical. In fact, it happens everywhere.
+- [Product overview](https://help.nextmatter.com/docs/product-overview.md): Operational excellence is key to any business. The clue is to build a flow that smoothly links tools, people, and tasks. This is where Next Matter shows its value.
+- [FAQ](https://help.nextmatter.com/docs/faq.md): Refer to this page for answers to some questions our users have asked.
+- [Get started: Build workflows](https://help.nextmatter.com/docs/get-stared-builder.md): As a builder, you'll be creating and managing workflows and integrations.
+- [Integrate across tools](https://help.nextmatter.com/docs/integrate-across-tools.md): Next Matter is the common interface for all your team's tools. Explore our extensive integration capabilities.
+- [Visual builder](https://help.nextmatter.com/docs/flowchart-view.md): Understand how your workflow works and what the dependencies are by looking at a graphic representation of the workflow.
+- [Notes in workflow](https://help.nextmatter.com/docs/add-notes-to-process.md): Capture all back-and-forth messages around the design and building of a workflow and keep them as documentation in builder notes.
+- [Branch your workflows](https://help.nextmatter.com/docs/branch-flows.md): Make sure your workflows cater for specific scenarios
+- [Troubleshooting workflows](https://help.nextmatter.com/docs/troubleshooting-processes.md): Refer to this page if you've run into issues creating or starting a workflow.
+- [Inbox](https://help.nextmatter.com/docs/inbox.md): All your tasks are visible in your Next Matter inbox helping you to organize your work.
+- [My requests](https://help.nextmatter.com/docs/my-requests.md): Track the workflows you started and any open tasks you have.
+- [Datasets](https://help.nextmatter.com/docs/data-sets.md): Host external sets of data in Next Matter.
+- [Get started: Work with tasks](https://help.nextmatter.com/docs/get-started-user.md): As a Next Matter user you'll be working with tasks and getting notifications in your inbox.
+- [Manage workflows/instances](https://help.nextmatter.com/docs/manage-process-instances.md): Check out how to run an instance, stop, update or delete it, and how to edit or delete a workflow.
+- [Reassign tasks](https://help.nextmatter.com/docs/reassign-tasks.md): Find steps assigned to team members and reassign them to keep workflows running.
+- [Complete steps](https://help.nextmatter.com/docs/complete-a-step.md): Complete steps in the app or using the API
+- [Participate in workflows](https://help.nextmatter.com/docs/learn-next-matter-as-process-participant.md): It might happen that you use Next Matter because you got workflow steps assigned to you.
+- [Create external workflows](https://help.nextmatter.com/docs/let-an-external-user-start-a-process.md): It might happen that the first step in a workflow is an external user sending data to Next Matter. It might be a customer who wants to move stocks to your company and is filling in a form with the data. Sending the data can then start the stock transfer workflow.
+- [Complete tasks as guest](https://help.nextmatter.com/docs/guest-user.md): You can complete workflow tasks and start requests by opening a link or scanning a QR code.
+- [Export data](https://help.nextmatter.com/docs/export-data.md): There are three ways to export data from Next Matter
+- [Search](https://help.nextmatter.com/docs/search.md): Find what you need using Next Matter search or filters
+- [Monitor data](https://help.nextmatter.com/docs/data-overview.md): Use the Data tab to monitor the health of your team and your workflows.
+- [Stages board](https://help.nextmatter.com/docs/view-progress-of-process-instances.md): To help you monitor the progress of instances, you can create a stage board, and view all instances against these stages. The most basic stages would be: Started, In progress, and Completed.
+- [Monitor progress with roadmap](https://help.nextmatter.com/docs/overview-of-processes-and-instances.md): With roadmap you can get a 360-degree view of your workflows and instances. Use it for reporting or reviewing statuses and to define who builds which workflow by when.
+- [Personal profile](https://help.nextmatter.com/docs/personal-profile.md): Decide if and how you want to get notified about tasks or instances and manage your personal details and password.
+- [Reset your password](https://help.nextmatter.com/docs/reset-your-password.md): If you've forgotten your password, you can easily reset it.
+- [Build teams](https://help.nextmatter.com/docs/build-teams.md): Start setting up by creating users and teams in Next Matter.
+- [Add users](https://help.nextmatter.com/docs/grow-your-team.md): You can quickly invite new colleagues and create and manage your team.
+- [Remove users](https://help.nextmatter.com/docs/remove-users.md): When a user leaves your workspace, you must remove their Next Matter access and reassign all tasks that belong to them.
+- [Team permissions](https://help.nextmatter.com/docs/team-permissions.md): Refer to the permission breakdown to see who can handle specific workflow and instance-related tasks in your workspace.
+- [Custom roles](https://help.nextmatter.com/docs/custom-roles.md): Create a workspace role with only the access a job needs, then assign it to a colleague or through SCIM.
+- [Out of office](https://help.nextmatter.com/docs/set-out-of-office.md): As an admin, you can set the out of office for any team member. You can also easily check who on the team is out of office.
+- [Microsoft authentication](https://help.nextmatter.com/docs/authenticate-with-microsoft.md): Set up Microsoft SSO to speed up logging in.
+- [Okta authentication](https://help.nextmatter.com/docs/okta-authentication.md): You can log in to Next Matter using Okta
+- [SCIM](https://help.nextmatter.com/docs/SCIM.md): Manage users with SCIM.
+- [Custom branding](https://help.nextmatter.com/docs/white-labelling.md): You can offer multiple Next Matter services as your own ensuring seamless user experience.
+- [Company dashboard](https://help.nextmatter.com/docs/team-dashboard.md): The dashboard is what the users in your workspace will first see when they log in to Next Matter.
+- [About workflows and instances](https://help.nextmatter.com/docs/workflows-and-instances.md): Normally, you start automating operations by building a workflow. When you have a workflow, you can then run its real-life instance.
+- [Workflow versions](https://help.nextmatter.com/docs/workflow-versions.md): Create draft workflows and roll back to a previous version, if needed.
+- [Workflow visibility](https://help.nextmatter.com/docs/about-visibility-and-permissions.md): Visibility and permission settings help you manage access to workflows. For example, the accounting team might not need to see the workflows of the sales team. Alternatively, you might want only yourself and a handful of people to be able to see certain workflows.
+- [Instance visibility](https://help.nextmatter.com/docs/instance-visibility.md): Choose who can see each instance of a workflow. You can keep instances public, limit them to the people involved, or restrict them to selected teams.
+- [Deadlines and reminders](https://help.nextmatter.com/docs/deadlines-and-reminders.md): As a workflow lead you can set deadlines for steps, and send assignees (internal and external) reminders to get the step completed in time.
+- [Create workflow tags](https://help.nextmatter.com/docs/use-tags-for-better-filtering.md): You can create and tag instances and workflows to filter and find them easier.
+- [Workflow lead and tech lead](https://help.nextmatter.com/docs/workflow-lead-and-tech-lead.md): Set the main stakeholder and the escalation contact — a person or a team — for failed integration steps.
+- [Sub-workflow triggering](https://help.nextmatter.com/docs/trigger-a-sub-process.md): If you're onboarding a new customer and part of the workflow is to get some legal paperwork ready. Instead of doing that as part of the entire customer onboarding process flow you can trigger a sub-workflow.
+- [Follow-up workflows](https://help.nextmatter.com/docs/start-a-follow-up-process.md): When you need one workflow to automatically start another one, you can set a trigger on the first workflow to initiate the next one.
+- [Send data to another workflow](https://help.nextmatter.com/docs/send-data-to-a-step-in-another-process.md): You might want to send data entered in one workflow to a step in another workflow.
+- [Instance overview table](https://help.nextmatter.com/docs/work-with-process-overview.md): In Next Matter, you have an overview of all workflows and a details overview per workflow.
+- [Start instances](https://help.nextmatter.com/docs/work-with-instances.md): When you've built your workflow with the editor, your team can run it as an instance. There can be multiple instances of the same workflow.
+- [Launch instances automatically](https://help.nextmatter.com/docs/launch-instances-automatically.md): You can automatically start instances when another workflow completes and send data from one workflow to a step in another one.
+- [Step types](https://help.nextmatter.com/docs/steps.md): Each of your workflows consists of multiple steps that are run in a set order. Each step defines a clear activity that needs to be completed by a team or individual in your workspace.
+- [Schedule step start](https://help.nextmatter.com/docs/schedule-step-start.md): You can set the time for the step to start on, after, or before as certain date. For example, you might want to automatically send a follow-up email to a customer after 5 days.
+- [Comments in steps](https://help.nextmatter.com/docs/add-comments-to-a-step.md): You can create a step that allows workflow users to leave comments.
+- [Show completion message](https://help.nextmatter.com/docs/show-completion-message.md): Celebrate user achievements by showing a completion message when they are done with a step
+- [Non-blocking steps](https://help.nextmatter.com/docs/speed-processes-up-with-non-blocking-steps.md): If you want a process to run faster, you can decide to make a step non-blocking. Then, the workflow will continue before this step finishes.
+- [Conditions](https://help.nextmatter.com/docs/set-conditions-to-a-step.md): A common pattern in processes is that next steps are dependent on the outcome of previous steps or certain fields only show when specific requirements have been fulfilled. We enable this way of branching workflows with conditions.
+- [Step visibility](https://help.nextmatter.com/docs/set-visibility-for-a-step.md): You can grant permission to your team to view the step otherwise it will remain hidden from the people involved in the workflow.
+- [About step assignees](https://help.nextmatter.com/docs/about-assignees.md): Decide who should be responsible for the step.
+- [Steps for external users](https://help.nextmatter.com/docs/assign-a-step-to-external-user.md): Processes can span outside workspaces, and in some cases you might need to assign a step to a supplier, customer, or any other external party.
+- [Conditional step assignee](https://help.nextmatter.com/docs/conditional-assignment.md): Assign steps based on the action input.
+- [Automated delegation](https://help.nextmatter.com/docs/automated-delegation.md): Decide who should or should not be assigned the task within a team.
+- [Forms and form fields](https://help.nextmatter.com/docs/about-actions-and-action-types.md): Forms are detailed tasks required to complete a step. The form field might be to enter customer address or select a meal type from a dropdown. Each step can consist of multiple mandatory or optional form fields.
+- [Input fields: text, date, email, address, instruction, URL, number](https://help.nextmatter.com/docs/text-fields.md): Input fields can be customized and prefilled for users to make form completion quick and effortless.
+- [Tables](https://help.nextmatter.com/docs/tables-forms.md): Tables are a good way to show data sets. Tables can have a predefined or a dynamic source and change as the source changes.
+- [Files, images, barcodes](https://help.nextmatter.com/docs/files-and-images.md): File upload and image upload form fields enable quick upload of resources from desktop or mobile. The barcode field allows for fast scanning of barcodes.
+- [Routing](https://help.nextmatter.com/docs/routing.md): Routing creates a section with configurable buttons that support skip logic. For example, if you have a review and decision step, you might configure one routing button to move the process to the next step on Approve and stop the workflow on Decline.
+- [Drawing and signature](https://help.nextmatter.com/docs/drawing-and-signature.md): Let users sign forms and draw to highlight elements of an image.
+- [Dropdowns, radios and checklists](https://help.nextmatter.com/docs/single-and-multi-select-dropdowns.md): You can allow users to select an option from a dropdown list or select a radio button.
+- [User selection](https://help.nextmatter.com/docs/user-selection.md): Let users select teams or team members as part of a form.
+- [Field validation](https://help.nextmatter.com/docs/field-validation.md): Validate text patterns using regular expressions or allowing only numerical input
+- [Data formats](https://help.nextmatter.com/docs/data-formatting.md): When you select data to reuse you can choose between providing data in JSON or plain format
+- [Prefilling](https://help.nextmatter.com/docs/prefills.md): Save user time by prefilling values in form fields.
+- [Use cases: forms, actions](https://help.nextmatter.com/docs/use-cases-actions.md): See how you can use workflows and workflow solutions to respond to specific business scenarios.
+- [Data references](https://help.nextmatter.com/docs/use-data-references.md): If you want a step to be based on the data entered in the previous step, set a dynamic data reference. Then the data you need will be automatically extracted and inserted where you need it. The data can also be sent to databases or systems within your workspace.
+- [Variables in workflows](https://help.nextmatter.com/docs/pull-variables-into-a-process.md): In Next Matter you can send data to an external application. You might then pull the processed data from these apps and reuse it in the workflow.
+- [Add metadata](https://help.nextmatter.com/docs/pass-meta-information.md): By adding parameters to the public form URL, you can automatically gather and pass meta information to the workflow and external databases. This way you exchange manual data input for automation.
+- [Integration types](https://help.nextmatter.com/docs/about-integrations.md): Next Matter can integrate with any system through integration steps, for example, to retrieve data and use it further in a process or to update data in a third-party system.
+- [Webhook triggers](https://help.nextmatter.com/docs/webhook-triggers.md): Start a workflow based on triggers from external apps.
+- [Templates](https://help.nextmatter.com/docs/work-with-templates.md): Templates give you a head-start on integration. They create all the necessary steps and fill in the API details you need.
+- [Scopes and permissions](https://help.nextmatter.com/docs/security-matrix.md): When you connect 3rd party apps, data is shared between those apps and Next Matter. Learn what is being shared to maintain full data security.
+- [API keys and credentials](https://help.nextmatter.com/docs/api-keys.md): As an admin you can create and manage your Next Matter API keys and use Next Matter API to integrate with third-party systems.
+- [Quick scripts and API examples](https://help.nextmatter.com/docs/quick-scripts.md): Automate API calls and integrate them into workflows or applications, and get working examples for quick application.
+- [No-code automations](https://help.nextmatter.com/docs/no-code-automations.md): No-code integrations enable you to create code-free steps or perform a no-code action on data
+- [Quick actions](https://help.nextmatter.com/docs/quick-actions.md): Add quick actions as a step to perform no-code calculations and operations on sets of data
+- [Get data from tables](https://help.nextmatter.com/docs/tables.md): Work with table data identifying lowest and highest numbers or unique values.
+- [Formatting a date](https://help.nextmatter.com/docs/formatting-a-date.md): Format date input to fit your needs
+- [Date calculations](https://help.nextmatter.com/docs/date-calculations.md): Add or subtract time from a date in your Next Matter workflow.
+- [Calculations and comparisons](https://help.nextmatter.com/docs/calculations.md): Create steps in your workflow that allow calculations and comparing data.
+- [Generate hash](https://help.nextmatter.com/docs/generate-hash.md): Hashing combined inputs ensures a fixed-length unique ID.Now, you can concatenate strings and hash them with a no-code quick action.
+- [Convert data to another format](https://help.nextmatter.com/docs/conversions.md): Convert JSON to string and a stringified JSON to JSON object
+- [Create document from HTML text](https://help.nextmatter.com/docs/generate-document.md): Add custom HTML text and generate a document with a link you can use in Next Matter.
+- [Next Matter actions](https://help.nextmatter.com/docs/next-matter-actions.md): Use any of the no-code templates available to perform an action on the Next Matter instance.
+- [Add and run custom code](https://help.nextmatter.com/docs/add-code.md): Add a code script to your workflow and bridge the gap between standard automation capabilities and bespoke business requirements.
+- [Create PDF, text, or JPEG](https://help.nextmatter.com/docs/create-pdf-or-text.md): Use no-code steps for reporting, changing document formats, and creating hardcopies of documents.
+- [Connect to OpenAI](https://help.nextmatter.com/docs/connect-to-openai.md): Analyze and generate text, process images, and use web search, file search, and code interpreter.
+- [Connect to Claude](https://help.nextmatter.com/docs/connect-to-claude.md): Generate text and process images with Claude in a code-free step.
+- [Connect to Azure AI](https://help.nextmatter.com/docs/connect-to-azure-ai.md): Generate text with your Azure OpenAI deployment, including web search, file search, and code interpreter.
+- [Create a no-code email](https://help.nextmatter.com/docs/create-a-no-code-email.md): If you want to quickly build an email into your workflow, use the email step.
+- [Connect to Docusign no-code](https://help.nextmatter.com/docs/send-dicusign-envelopes-no-code.md): Use templates to create drafts and send envelopes by email using a no-code Docusign step.
+- [Connect to LlamaParse](https://help.nextmatter.com/docs/extract-data-from-documents-with-llamaparse.md): Parse PDFs and other documents into text, markdown, JSON, or images you can reuse in your workflow.
+- [Connect to Scribe no-code](https://help.nextmatter.com/docs/connect-to-scribe-no-code.md): Pull in and approve Scribe reports as part of your workflow.
+- [Connect to Google Sheets no-code](https://help.nextmatter.com/docs/connect-to-google-sheets-no-code.md): Add and update rows with values or formulas to the worksheet. Nice and easy, little code required.
+- [Connect to Gmail no-code](https://help.nextmatter.com/docs/connect-to-gmail-no-code.md): Exchange information between Gmail and your workflow in a completety no-code way.
+- [Connect to Front no-code](https://help.nextmatter.com/docs/connect-to-front-code-free.md): Add comments to Front conversations directly from workflows
+- [Connect to Freshdesk no-code](https://help.nextmatter.com/docs/connect-to-freshdesk.md): Create, update, and view tickets without leaving your workflow.
+- [Connect to Microsoft Excel no-code](https://help.nextmatter.com/docs/connect-to-microsoft-excel-no-code.md): Now, you can quickly exchange data with Excel spreadsheets and workflows
+- [Connect to Microsoft Outlook code-free](https://help.nextmatter.com/docs/connect-to-microsoft-outlook-code-free.md): Send Outlook emails directly from your workflow
+- [Connect to Slack no-code](https://help.nextmatter.com/docs/no-code-slack-notifications.md): Get personal notifications about tasks in Slack, allow users to select how they want to be notified, and send messages to public channels
+- [Connect to Sharepoint no-code](https://help.nextmatter.com/docs/connect-to-sharepoint-no-code.md): Create a no-code SharePoint step to upload files to Sharepoint sites, create folders, or share files.
+- [Connect to Zendesk code-free](https://help.nextmatter.com/docs/connect-to-zendesk-code-free.md): Connect to Zendesk in seconds to enable users create and update tickets directly from the workflow
+- [Integrate with Airtable](https://help.nextmatter.com/docs/integrate-with-airtable.md): Integrate with Airtable to create and update Airtable records.
+- [Integrate with Amazon Redshift](https://help.nextmatter.com/docs/integrate-with-amazon-redshift.md): Get data out of your database or push data back to Amazon Redshift from a Next Matter workflow.
+- [Integrate with Asana](https://help.nextmatter.com/docs/integrate-with-asana.md): You can integrate with Asana to automatically create a task in Asana in a workspace, project, and section from a Next Matter workflow.
+- [Integrate with Azure Event Hubs](https://help.nextmatter.com/docs/integrate-with-azure-event-hub.md): Exchange data with 3rd party services using Azure Event Hubs.
+- [Integrate with Box](https://help.nextmatter.com/docs/integrate-with-box.md): Connect your workflow to Box to handle your documents and upload them to workflow steps
+- [Integrate with DHL](https://help.nextmatter.com/docs/integrate-with-dhl.md): Create shipments and return corresponding shipment tracking numbers, labels, and documentation.
+- [Integrate with Docusign](https://help.nextmatter.com/docs/integrate-with-docusign.md): You might want to send documents that are part of the Next Matter workflow to sign with Docusign. Integrate with Docusign to manage document signing end to end.
+- [Integrate with Front](https://help.nextmatter.com/docs/integrate-with-front.md): Connect to the Front App and add a comment to a conversation.
+- [Integrate with Freshdesk](https://help.nextmatter.com/docs/integrate-with-freshdesk.md): You can trigger a Next Matter workflow directly from Freshdesk or send Next Matter workflow data to a Freshdesk ticket.
+- [Integrate with GIPHY](https://help.nextmatter.com/docs/integrate-with-giphy.md): Get a gif with a specified name.
+- [Prepare to integrate](https://help.nextmatter.com/docs/integrate-with-google.md): Connect to Google and exchange data between Google services and Next Matter.
+- [Integrate with Google Chat](https://help.nextmatter.com/docs/integrate-with-google-chat.md): Send customized Google chat messages directly from a Next Matter process to dedicated channels.
+- [Integrate with Google Docs](https://help.nextmatter.com/docs/integrate-with-google-docs.md): You can copy and populate documents with data from the process.
+- [Integrate with Google Drive](https://help.nextmatter.com/docs/integrate-with-google-drive-to-upload-files.md): You can use Next Matter integration steps to directly integrate your workflow with Google Drive to, for example, upload files.
+- [Integrate with Google Forms](https://help.nextmatter.com/docs/integrate-with-google-forms.md): You can connect to Google Forms to trigger r a new instance of a workflow when a Google Form is submitted and populate fields in the first active step of the new workflow instance with the Google Form data.
+- [Integrate with Google Sheets](https://help.nextmatter.com/docs/integrate-with-google-sheets.md): You can easily send data to Google Sheets, create rows or find information in spreadsheets and send it back to workflows.
+- [Integrate with Google Slides](https://help.nextmatter.com/docs/integrate-with-google-slides.md): Using this integration, you can copy a Google Slides presentation stored on Google Drive and fill it out with your data.
+- [Create XML files and send them to Google Drive](https://help.nextmatter.com/docs/create-xml-files-and-send-them-to-google-drive.md): Next Matter allows you to create XML files automatically and place them in a Google Drive folder of your choice.
+- [Integrate with HubSpot](https://help.nextmatter.com/docs/integrate-with-hubspot.md): Send data to and get them from HubSpot straight into your workflow.
+- [Integrate with Intercom](https://help.nextmatter.com/docs/integrate-with-intercom.md): Bring company or contact information from Intercom into your workflow
+- [Integrate with Jira](https://help.nextmatter.com/docs/integrate-with-jira.md): You can trigger a workflow from a Jira issue or create a Jira ticket in a Jira project as a step in a workflow.
+- [Integrate with Mailchimp](https://help.nextmatter.com/docs/integrate-with-mailchimp.md): Send Mailchimp transactional emails directly from your workflow.
+- [Integrate with Microsoft](https://help.nextmatter.com/docs/integrate-with-microsoft.md): You can integrate with Microsoft suite to get data in and out of the workflow.
+- [Integrate with Microsoft Dynamics 365](https://help.nextmatter.com/docs/integrate-with-microsoft-dynamics-365.md): Get data from Microsoft Dynamics 365 Business Central, which is an enterprise resource planning (ERP) solution
+- [Integrate with Microsoft Fabric](https://help.nextmatter.com/docs/integrate-with-microsoft-fabric.md): Run GraphQL queries against Microsoft Fabric to move and work with your data from a Next Matter workflow.
+- [Integrate with Outlook](https://help.nextmatter.com/docs/integrate-with-microsoft-outlook.md): Send information and email invitations to event participants directly from your workflow.
+- [Integrate with SharePoint](https://help.nextmatter.com/docs/create-a-list-in-sharepoint.md): You can create and populate a folder in Sharepoint.
+- [Integrate with Teams](https://help.nextmatter.com/docs/send-a-teams-message.md): Send customized Teams messages directly from a Next Matter workflow to dedicated channels.
+- [Integrate with Excel](https://help.nextmatter.com/docs/integrate_excel.md): You can add worksheets, use Vlook, add rows, or update row data.
+- [Integrate with OneDrive](https://help.nextmatter.com/docs/upload-to-onedrive.md): Upload files to Drive and create new folders straight from the Next Matter workflow.
+- [Integrate with Notion](https://help.nextmatter.com/docs/integrate-with-notion.md): Connect your workflow and Notion to create new pages or add paragraphs.
+- [Integrate with Nutshell](https://help.nextmatter.com/docs/integrate-with-nutshell.md): Create a new contact in Nutshell CRM.
+- [Integrate with PostgreSQL](https://help.nextmatter.com/docs/integrate-with-postgresql.md): You can push the data from a Next Matter workflow to the database or pull the data you need into a workflow.
+- [Integrate with Sendgrid](https://help.nextmatter.com/docs/integrate-with-sendgrid.md): If you want to automatically send an email from Next Matter, you can tap into Next Matter's built-in integration to reach out to external partners by email.
+- [Integrate with Slack](https://help.nextmatter.com/docs/integrate-with-slack.md): Send customized Slack messages directly from a Next Matter workflow to dedicated channels.
+- [Integrate with Smartsheet](https://help.nextmatter.com/docs/integrate-with-smartsheet.md): You can get a cell value from Smartsheet and pull it into the workflow.
+- [Integrate with Twilio](https://help.nextmatter.com/docs/integrate-with-twilio.md): Connect Twilio to use the One-Time-Password SMS Verification or send text messages to the user.
+- [Send a text message](https://help.nextmatter.com/docs/send-a-text-message.md): You can get user details into the workflow and then trigger sending a text message to the user.
+- [Use Twilio verification system](https://help.nextmatter.com/docs/use-twilio-verification-system.md): Connect Next Matter and Twilio to use the One-Time-Password SMS Verification.
+- [Integrate with Zapier](https://help.nextmatter.com/docs/integrate-with-webhooks.md): Next Matter can make any Rest API call and send data to other systems or integration layers so it can be used further.
+- [Integrate with Zendesk](https://help.nextmatter.com/docs/integrate-with-zendesk.md): Exchange information between workflows and Zendesk
+- [Create and share portals](https://help.nextmatter.com/docs/share-workflows-in-portals.md): Portals are an easy way to share selected workflows with users
+- [Get started: Portal user](https://help.nextmatter.com/docs/portal-user.md): As a portal user you can start requests from portals, and complete tasks.
+- [Track your instances/requests](https://help.nextmatter.com/docs/track-your-instancesrequests.md): If you opened a request in the portal or used a public form to start a workflow, you can easily track the status of these requests.
+- [Zendesk sidebar](https://help.nextmatter.com/docs/Zendesk-sidebar.md): Sidebars help you display Next Matter inside your service tool.
+- [Freshdesk sidebar](https://help.nextmatter.com/docs/Freshdesk-sidebar.md): Sidebars help you display Next Matter inside your service tool.
+- [Front sidebar](https://help.nextmatter.com/docs/Front-sidebar.md): Sidebars help you display Next Matter inside your service tool.
+- [Compliance with Next Matter](https://help.nextmatter.com/docs/compliance-with-next-matter.md): If staying compliant is something you strive towards in your workspace, you can use Next Matter's potential to build workflows that help you reach your compliance goals.
+- [Customer service automation with Next Matter](https://help.nextmatter.com/docs/customer-services-with-next-matter.md): Need to run a return rental workflow or automate refund processes? Any customer service workflow, complex or straightforward, can be automated in Next Matter.
+- [B2B onboarding with Next Matter](https://help.nextmatter.com/docs/onboarding-with-next-matter.md): Make onboarding a replicable, quality and enjoyable experience: for employees, customers, partners, ...and yourself.
+- [Product updates](https://help.nextmatter.com/changelog/changelog.md): We bring you new features and fixes every month
+- [Updates in 2025](https://help.nextmatter.com/changelog/changelog_2025.md): Product features and improvements in 2025
+- [Updates in 2024](https://help.nextmatter.com/changelog/changelog_2024.md): Product features and improvements in 2024
+- [Updates in 2023](https://help.nextmatter.com/changelog/changelog_2023.md): Product features and improvements in 2023.
+- [Get started](https://help.nextmatter.com/reference/getting-started.md): Get started with Next Matter public API.
+- [Upload file](https://help.nextmatter.com/reference/file/upload-file.md): Create a new file for the organization and (optionally) a specific workflow or instance.
+- [Upload image](https://help.nextmatter.com/reference/image/upload-image.md): Create and return a new image for the organization and specified workflow or instance.
+- [Create instance](https://help.nextmatter.com/reference/instance/create-instance.md): Create and return a new instance of the workflow
+- [Get instance](https://help.nextmatter.com/reference/instance/get-instance.md): Get the details of an instance
+- [Update instance](https://help.nextmatter.com/reference/instance/update-instance.md): Update all instance properties. Sending visibility_teams sets the audience to exactly those teams and requires permission to manage instance visibility. visibility_mode is read-only.
+- [Partially update instance](https://help.nextmatter.com/reference/instance/partially-update-instance.md): Update selected instance properties. Sending visibility_teams sets the audience to exactly those teams and requires permission to manage instance visibility. visibility_mode is read-only.
+- [Complete step](https://help.nextmatter.com/reference/instance/complete-step.md): Complete a step in an instance of a workflow. The step needs to be active and the user         that the API-Key is associated with needs to have access to the step (they need to act as assigned step owner, workflow lead, or an administrator).
+- [Stop instances](https://help.nextmatter.com/reference/instance/stop-instances.md): Stop instances passed in the payload
+- [Delete instances](https://help.nextmatter.com/reference/instance/delete-instances.md): Delete instances passed in the payload
+- [List workflow instances](https://help.nextmatter.com/reference/instance/list-workflow-instances.md): List the instances of a given workflow, optionally filtered.
+- [List workflow instances (v2)](https://help.nextmatter.com/reference/instance/list-workflow-instances-v2.md): List the instances of a given workflow, optionally filtered (v2 with cursor pagination).
+- [List workflows](https://help.nextmatter.com/reference/workflow/list-workflows.md): Show all workflows that are visible to the user that the API-Key is associated with.
+- [Get workflow](https://help.nextmatter.com/reference/workflow/get-workflow.md): Get the details of a workflow, including the published instance-visibility mode.
+- [Details of form field](https://help.nextmatter.com/reference/form-field/details-of-form-field.md): Retrieve detailed information about a form field, including all instances where the field is used.
+- [Details of form field (v2)](https://help.nextmatter.com/reference/form-field/details-of-form-field-v2.md): Retrieve detailed information about a form field, including all instances where the field is used (v2 with cursor pagination).
+
+## OpenAPI Specs
+
+- [openapi](/reference/openapi.json)
+
+## Optional
+
+- [Product updates](https://nextmatter.mintlify.app/changelog/changelog)
+- [Videos](https://www.youtube.com/playlist?list=PLfgqOsRV3ZEXN2pII9HHQlTHwllZ9uj8r)
+
+
+This documentation is built and hosted on [Mintlify](https://mintlify.com), a developer documentation platform.

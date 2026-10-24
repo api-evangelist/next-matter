@@ -1,25 +1,92 @@
 aid: next-matter
+
 name: Next Matter
-description: 'Next Matter is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by crane-venture-partners) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://nextmatter.com/__l5e/assets-v1/7ccd0a60-7a37-4a87-8e5b-90cbe4aca625/og-index.jpg
+
+description: 'Next Matter is a technology company that provides a platform for managing and automating complex workflows across various industries. Their solutions enable businesses to integrate disparate systems, orchestrate processes, and gain real-time insights through a unified interface. Backed by Crane Venture Partners, Next Matter focuses on delivering scalable, secure, and customizable automation tools that help enterprises improve efficiency, reduce manual effort, and accelerate digital transformation initiatives.'
+
 url: https://raw.githubusercontent.com/api-evangelist/next-matter/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-24'
+
 modified: '2026-10-24'
+
 tags:
 - Company
-apis: []
+- Automation
+- Workflow
+- Integration
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
+common:
+- type: ChangeLog
+  url: changelog/next-matter-changelog.yml
+- type: Compliance
+  url: https://nextmatter.com/security
+- type: Authentication
+  url: authentication/next-matter-authentication.yml
+- type: LLMsTxt
+  url: llms/next-matter-llms.txt
+- type: AgentCard
+  url: a2a/next-matter-a2a.yml
+- type: WellKnown
+  url: well-known/next-matter-well-known.yml
+- type: Hosts
+  url: hosts/next-matter-hosts.yml
+- type: Vendors
+  url: vendors/next-matter-vendors.yml
+- type: TermsOfService
+  url: https://nextmatter.com/terms-of-service
+- type: Security
+  url: https://nextmatter.com/security
+- type: PrivacyPolicy
+  url: https://nextmatter.com/privacy-policy
+- type: ChangeLog
+  url: https://help.nextmatter.com/changelog/changelog
+- type: GettingStarted
+  url: https://help.nextmatter.com/docs/onboarding-with-next-matter
+- type: APIReference
+  url: https://help.nextmatter.com/reference/getting-started
+- type: GitHubOrganization
+  url: https://github.com/nextmatter
+- type: TrustCenter
+  url: security/next-matter-trust-center.yml
+- type: DomainSecurity
+  url: security/next-matter-domain-security.yml
+- type: Website
+  url: https://nextmatter.com/
+- type: Documentation
+  url: https://help.nextmatter.com/
+- type: StatusPage
+  url: https://status.nextmatter.com/
+- type: Support
+  url: https://help.nextmatter.com/
+- type: DeveloperPortal
+  url: https://app.nextmatter.com/
+
+apis: []
+
 x-backed-by:
 - crane-venture-partners
-common:
-- type: Website
-  url: https://www.nextmatter.com/
+x-enrichment:
+  date: '2026-10-24'
+  status: enriched
+  artifacts_added: 21
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
